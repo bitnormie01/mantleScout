@@ -194,7 +194,7 @@ npx tsx scripts/seed-demo.ts
 | 1 | Smart contract on Mantle testnet | ✅ | [WalletRegistry on Mantle Sepolia](https://explorer.sepolia.mantle.xyz/address/0x5C44B0C511664bebF5EF2BD7B10DD46Ceb109Bcd) |
 | 2 | Contract verified | ✅ | Verified via Sourcify |
 | 3 | AI-powered function callable on-chain | ✅ | `submitLabel()` with DGrid/DeepSeek LLM rationale |
-| 4 | Frontend publicly accessible | ✅ | [Link TBD after Vercel deploy] |
+| 4 | Frontend publicly accessible | ✅ | [[Frontend Link]](https://mantle-scout.vercel.app/) |
 | 5 | Contract address in DoraHacks | ✅ | Listed in BUIDL submission |
 | 6 | Demo video ≥ 2 minutes | ✅ | [Link TBD] |
 | 7 | Open-source GitHub repo | ✅ | This repository |
