@@ -1,0 +1,8 @@
+{
+  "name": "@mantlescout/shared",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "dependencies": {
+    "viem": "^2.21.0"
+  }
+}
