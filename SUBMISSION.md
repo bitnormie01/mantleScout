@@ -29,7 +29,7 @@ Mantle Sepolia Testnet (Chain ID: 5003)
 [URL TBD — screen recording with voiceover, ≥2 minutes]
 
 ## Team
-Anuj (solo)
+0xjaadu (solo)
 
 ## Track
 Turing Test — 20 Project Deployment Award (FCFS)
