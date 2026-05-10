@@ -183,8 +183,8 @@ npx tsx scripts/seed-demo.ts
 
 ## 🔗 Links
 - [Deployed Contract](https://explorer.sepolia.mantle.xyz/address/0x5C44B0C511664bebF5EF2BD7B10DD46Ceb109Bcd)
-- Frontend — TBD after Vercel deploy
-- Demo Video — TBD
+- Frontend — https://mantle-scout.vercel.app/
+- Demo Video — [video](https://www.youtube.com/watch?v=zzD31QhqFcU)
 
 
 ## ✅ FCFS Deployment Criteria
@@ -196,7 +196,7 @@ npx tsx scripts/seed-demo.ts
 | 3 | AI-powered function callable on-chain | ✅ | `submitLabel()` with DGrid/DeepSeek LLM rationale |
 | 4 | Frontend publicly accessible | ✅ | [[Frontend Link]](https://mantle-scout.vercel.app/) |
 | 5 | Contract address in DoraHacks | ✅ | Listed in BUIDL submission |
-| 6 | Demo video ≥ 2 minutes | ✅ | [Link TBD] |
+| 6 | Demo video ≥ 2 minutes | ✅ | [video](https://www.youtube.com/watch?v=zzD31QhqFcU) |
 | 7 | Open-source GitHub repo | ✅ | This repository |
 | 8 | README with setup instructions | ✅ | You're reading it |
 
